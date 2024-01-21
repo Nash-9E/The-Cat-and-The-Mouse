@@ -1,2 +1,2 @@
 # The-Cat-and-The-Mouse
-An little RL algorithm, based on Deep Q-Learning.
+Little RL project for University Artificial Inteligence Course, based on Deep Q-Learning. 
